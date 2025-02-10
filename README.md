@@ -4,7 +4,7 @@
 
 1. Download this repo on your system
 2. Create virtual environment in project folder: `python -m venv <venv_name>`
-3. Activate created venv in `cmd`: `<venv_name>/Scripts/activate.bat`
+3. Activate created venv in **cmd**: `<venv_name>/Scripts/activate.bat`
 4. Install all dependecies: `pip install -r requirements.txt`
 5. Install `allure`. Instructions are here: https://allurereport.org/docs/install-for-windows/
 
